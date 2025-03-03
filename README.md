@@ -1,4 +1,4 @@
-# ConfigToolForUniversity-HCMUT
+# ConfigToolForMyUniversity-HCMUT
 I have a challenge that finish fixing this tool for school in 4 days.
 ## Problem 1: All is .dll
 I recieved a folder that all code is encode to ".dll" file so I have to change it to ".css" file by JetBrains dotPeek 2024.2.7
